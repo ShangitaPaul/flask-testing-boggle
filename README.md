@@ -1,6 +1,6 @@
 # flask-testing-boggle
 
-This project is still under construction. Please see branches for working code. 
+This project is still under construction. Please see branches for working code: https://github.com/ShangitaPaul/flask-testing-boggle/tree/flask-testing-boggle-june16-2023
 
 The Game
 
